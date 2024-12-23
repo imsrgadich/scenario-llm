@@ -1,0 +1,13 @@
+llama-cpp-python
+streamlit
+langchain
+transformers
+sentence-transformers
+fastapi
+pydantic
+matplotlib
+pandas
+langchain-community
+langchain-core
+langchain-groq
+python-dotenv
