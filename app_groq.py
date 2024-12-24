@@ -35,7 +35,7 @@ else:
         input_variables=["scenario", "data"],
         template=(
             "Given the sales data: {data}, analyze the scenario: {scenario}. "
-            "Respond with a concise description and suggest data visualization "
+            "Respond with a concise description and show data visualizations "
             "for the impact (preferably bar charts or line charts). Avoid tables."
         )
     )
