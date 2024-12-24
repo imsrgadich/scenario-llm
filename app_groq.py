@@ -78,3 +78,6 @@ else:
                     color='REGION'
                 ).properties(title="Sales After Scenario")
                 st.altair_chart(chart, use_container_width=True)
+
+if __name__ == "main":
+    main()
