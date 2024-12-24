@@ -35,8 +35,7 @@ else:
         input_variables=["scenario", "data"],
         template=(
             "Given the sales data: {data}, analyze the scenario: {scenario}. "
-            "Respond with a concise description and show data visualizations "
-            "for the impact (preferably bar charts or line charts). Avoid tables."
+            "Respond with a concise description and analysis and avoid tables."
         )
     )
     question_chain = LLMChain(llm=llm, prompt=question_prompt)
