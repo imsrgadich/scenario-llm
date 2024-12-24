@@ -1,0 +1,109 @@
+PRODUCT_ID,MONTH,UNIT_SALES,PRODUCT_NAME,SUPPLY_TIME,QUANTITY_ON_HAND,REGION
+1,1,14700,Berry Juice,3,11,West
+1,2,7980,Berry Juice,3,30,South
+1,3,7980,Berry Juice,3,20,Northeast
+1,4,6300,Berry Juice,3,15,South
+1,5,3780,Berry Juice,3,44,Northeast
+1,6,6720,Berry Juice,3,66,Midwest
+1,7,9660,Berry Juice,3,70,Northeast
+1,8,15540,Berry Juice,3,12,South
+1,9,8820,Berry Juice,3,88,Northeast
+1,10,7980,Berry Juice,3,66,West
+1,11,3780,Berry Juice,3,47,Midwest
+1,12,3780,Berry Juice,3,230,South
+2,1,5760,Mango Drink,2,11,West
+2,2,6480,Mango Drink,2,83,Midwest
+2,3,4752,Mango Drink,2,13,Midwest
+2,4,6624,Mango Drink,2,45,South
+2,5,4752,Mango Drink,2,23,Midwest
+2,6,4320,Mango Drink,2,86,West
+2,7,6624,Mango Drink,2,32,Northeast
+2,8,5328,Mango Drink,2,64,Northeast
+2,9,4320,Mango Drink,2,90,Northeast
+2,10,8496,Mango Drink,2,27,West
+2,11,5040,Mango Drink,2,92,South
+2,12,1728,Mango Drink,2,220,Northeast
+3,1,7735,Strawberry Drink,3,34,Northeast
+3,2,6851,Strawberry Drink,3,43,Northeast
+3,3,10387,Strawberry Drink,3,36,Midwest
+3,4,7514,Strawberry Drink,3,87,Northeast
+3,5,6188,Strawberry Drink,3,54,South
+3,6,7072,Strawberry Drink,3,35,Northeast
+3,7,8619,Strawberry Drink,3,32,South
+3,8,5525,Strawberry Drink,3,78,South
+3,9,8177,Strawberry Drink,3,12,Midwest
+3,10,10608,Strawberry Drink,3,9,Northeast
+3,11,8840,Strawberry Drink,3,54,Midwest
+3,12,4641,Strawberry Drink,3,946,South
+4,1,12740,Cream Soda,2,32,South
+4,2,9620,Cream Soda,2,12,South
+4,3,11960,Cream Soda,2,74,South
+4,4,7020,Cream Soda,2,99,Northeast
+4,5,13260,Cream Soda,2,26,Northeast
+4,6,7540,Cream Soda,2,11,Midwest
+4,7,10920,Cream Soda,2,56,West
+4,8,13000,Cream Soda,2,84,Midwest
+4,9,5720,Cream Soda,2,74,Midwest
+4,10,9100,Cream Soda,2,43,West
+4,11,9620,Cream Soda,2,53,West
+4,12,2080,Cream Soda,2,298,Midwest
+5,1,1890,Diet Soda,2,12,West
+5,2,2660,Diet Soda,2,87,South
+5,3,1610,Diet Soda,2,45,West
+5,4,2520,Diet Soda,2,34,Midwest
+5,5,2310,Diet Soda,2,87,Northeast
+5,6,3640,Diet Soda,2,56,South
+5,7,3080,Diet Soda,2,31,Northeast
+5,8,2590,Diet Soda,2,46,South
+5,9,2940,Diet Soda,2,32,Northeast
+5,10,2170,Diet Soda,2,23,Northeast
+5,11,2730,Diet Soda,2,78,West
+5,12,490,Diet Soda,2,356,Northeast
+6,1,4760,Cola,2,43,West
+6,2,4620,Cola,2,49,South
+6,3,6300,Cola,2,77,West
+6,4,5460,Cola,2,87,West
+6,5,6440,Cola,2,64,Northeast
+6,6,2940,Cola,2,73,South
+6,7,6440,Cola,2,92,West
+6,8,8120,Cola,2,83,South
+6,9,7980,Cola,2,49,South
+6,10,5180,Cola,2,24,Northeast
+6,11,7980,Cola,2,35,West
+6,12,3220,Cola,2,555,South
+7,1,2618,Diet Cola,3,28,West
+7,2,2695,Diet Cola,3,77,Midwest
+7,3,3080,Diet Cola,3,84,West
+7,4,4158,Diet Cola,3,30,Northeast
+7,5,2849,Diet Cola,3,69,Northeast
+7,6,2079,Diet Cola,3,37,South
+7,7,3927,Diet Cola,3,26,West
+7,8,3080,Diet Cola,3,45,Midwest
+7,9,2079,Diet Cola,3,85,Northeast
+7,10,1386,Diet Cola,3,21,West
+7,11,4697,Diet Cola,3,84,Northeast
+7,12,1617,Diet Cola,3,847,Midwest
+8,1,9450,Orange Juice,3,33,Midwest
+8,2,12663,Orange Juice,3,22,Northeast
+8,3,3780,Orange Juice,3,32,South
+8,4,6993,Orange Juice,3,96,Midwest
+8,5,6993,Orange Juice,3,57,Midwest
+8,6,8316,Orange Juice,3,56,South
+8,7,10206,Orange Juice,3,54,West
+8,8,5103,Orange Juice,3,34,Midwest
+8,9,10773,Orange Juice,3,45,Northeast
+8,10,2268,Orange Juice,3,86,Northeast
+8,11,8505,Orange Juice,3,95,Midwest
+8,12,3591,Orange Juice,3,349,West
+9,1,8806,Cranberry Juice,3,33,Midwest
+9,2,11186,Cranberry Juice,3,21,Midwest
+9,3,9520,Cranberry Juice,3,87,Midwest
+9,4,8092,Cranberry Juice,3,53,West
+9,5,11186,Cranberry Juice,3,35,Midwest
+9,6,5712,Cranberry Juice,3,34,West
+9,7,10710,Cranberry Juice,3,35,Northeast
+9,8,11900,Cranberry Juice,3,53,South
+9,9,8092,Cranberry Juice,3,32,West
+9,10,5950,Cranberry Juice,3,28,Northeast
+9,11,7854,Cranberry Juice,3,93,Midwest
+9,12,2142,Cranberry Juice,3,654,South
