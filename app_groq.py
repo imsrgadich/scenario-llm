@@ -43,6 +43,7 @@ else:
 
     # Streamlit UI
     st.title("Sales Data Analysis and Scenario Modeling")
+    st.caption("Use sample data from https://github.com/imsrgadich/scenario-llm/blob/main/data/data_with_regions.csv")
 
     # File Upload
     uploaded_file = st.file_uploader("Upload Sales Data (CSV)", type=["csv"])
